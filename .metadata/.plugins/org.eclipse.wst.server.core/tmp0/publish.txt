@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Jan 21 10:02:55 CST 2018
+org.eclipse.jst.jee.server\:/binary\:D\:\\2015lab\\mvc_jar\\org\\apache\\tomcat\\embed\\tomcat-embed-websocket\\8.5.23\\tomcat-embed-websocket-8.5.23.jar=WEB-INF/lib/tomcat-embed-websocket-8.5.23.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\2015lab\\mvc_jar\\org\\springframework\\spring-web\\4.3.13.RELEASE\\spring-web-4.3.13.RELEASE.jar=WEB-INF/lib/spring-web-4.3.13.RELEASE.jar

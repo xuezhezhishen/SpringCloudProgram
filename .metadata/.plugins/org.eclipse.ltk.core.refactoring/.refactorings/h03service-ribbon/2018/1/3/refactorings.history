@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.hlb.start.ServiceHiApplication&apos; to &apos;ServiceRibbonApplication&apos;&#x0D;&#x0A;- Original project: &apos;service-ribbon&apos;&#x0D;&#x0A;- Original element: &apos;com.hlb.start.ServiceHiApplication&apos;&#x0D;&#x0A;- Renamed element: &apos;com.hlb.start.ServiceRibbonApplication&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ServiceHiApplication&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.hlb.start{ServiceHiApplication.java[ServiceHiApplication" matchStrategy="1" name="ServiceRibbonApplication" qualified="false" references="true" similarDeclarations="false" stamp="1515894320418" textual="false" version="1.0"/>
+</session>
